@@ -1,0 +1,15 @@
+body {
+    background-color: #f2e6ff;
+}
+
+h1 {
+   font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+h2 {
+    font-family: 'Pathway Gothic One', sans-serif;
+}
+
+.questions {
+    text-align: center;
+}
